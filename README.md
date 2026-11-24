@@ -1,5 +1,5 @@
 
-<b>Kernel:</b> 7.3.4-arch1-2 <br>
+<b>Kernel:</b> 7.3.5-arch1-2 <br>
 <b>Contact:</b> [sadis.contact@gmail.com](mailto:sadis.contact@gmail.com)<br>
 <b>GPG Public Key: [BD5B262386D24A24](https://github.com/sadis404.gpg)</b> <br>
 <br>
